@@ -1,0 +1,11 @@
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/bin/Debug/net7.0/DeliveryService.Data.deps.json
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/bin/Debug/net7.0/DeliveryService.Data.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/bin/Debug/net7.0/DeliveryService.Data.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/obj/Debug/net7.0/DeliveryService.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/obj/Debug/net7.0/DeliveryService.Data.AssemblyInfoInputs.cache
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/obj/Debug/net7.0/DeliveryService.Data.AssemblyInfo.cs
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/obj/Debug/net7.0/DeliveryService.Data.csproj.CoreCompileInputs.cache
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/obj/Debug/net7.0/DeliveryService.Data.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/obj/Debug/net7.0/refint/DeliveryService.Data.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/obj/Debug/net7.0/DeliveryService.Data.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/obj/Debug/net7.0/ref/DeliveryService.Data.dll

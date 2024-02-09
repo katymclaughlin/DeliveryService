@@ -1,0 +1,11 @@
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/bin/Debug/net7.0/DeliveryServiceRepository.deps.json
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/bin/Debug/net7.0/DeliveryServiceRepository.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/bin/Debug/net7.0/DeliveryServiceRepository.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/DeliveryServiceRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/DeliveryServiceRepository.AssemblyInfoInputs.cache
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/DeliveryServiceRepository.AssemblyInfo.cs
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/DeliveryServiceRepository.csproj.CoreCompileInputs.cache
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/DeliveryServiceRepository.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/refint/DeliveryServiceRepository.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/DeliveryServiceRepository.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/ref/DeliveryServiceRepository.dll
