@@ -96,3 +96,8 @@
 /Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Tests/obj/Debug/net7.0/DeliveryService.Tests.pdb
 /Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Tests/obj/Debug/net7.0/DeliveryService.Tests.genruntimeconfig.cache
 /Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Tests/obj/Debug/net7.0/ref/DeliveryService.Tests.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Tests/bin/Debug/net7.0/DeliveryService.Data.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Tests/bin/Debug/net7.0/DeliveryServiceRepository.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Tests/bin/Debug/net7.0/DeliveryService.Data.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Tests/bin/Debug/net7.0/DeliveryServiceRepository.pdb

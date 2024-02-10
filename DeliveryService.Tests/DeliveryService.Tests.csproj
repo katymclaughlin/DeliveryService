@@ -16,4 +16,9 @@
     <PackageReference Include="coverlet.collector" Version="3.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DeliveryService.Data\DeliveryService.Data.csproj" />
+    <ProjectReference Include="..\DeliveryService.Repository\DeliveryServiceRepository.csproj" />
+  </ItemGroup>
+
 </Project>
