@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "DeliveryService.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DeliveryService.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliveryService.Data.dll": {}
+        }
+      },
+      "DeliveryServiceRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DeliveryService.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DeliveryServiceRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DeliveryServiceRepository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DeliveryService.Data/1.0.0": {
+      "type": "project",
+      "path": "../DeliveryService.Data/DeliveryService.Data.csproj",
+      "msbuildProject": "../DeliveryService.Data/DeliveryService.Data.csproj"
+    },
+    "DeliveryServiceRepository/1.0.0": {
+      "type": "project",
+      "path": "../DeliveryService.Repository/DeliveryServiceRepository.csproj",
+      "msbuildProject": "../DeliveryService.Repository/DeliveryServiceRepository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "DeliveryService.Data >= 1.0.0",
+      "DeliveryServiceRepository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/katymclaughlin/.nuget/packages/": {}
@@ -31,7 +69,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/DeliveryService.Data.csproj": {
+              "projectPath": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Data/DeliveryService.Data.csproj"
+            },
+            "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/DeliveryServiceRepository.csproj": {
+              "projectPath": "/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/DeliveryServiceRepository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

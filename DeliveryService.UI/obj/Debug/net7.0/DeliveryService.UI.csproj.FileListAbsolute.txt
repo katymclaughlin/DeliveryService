@@ -12,3 +12,9 @@
 /Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.UI/obj/Debug/net7.0/DeliveryService.UI.pdb
 /Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.UI/obj/Debug/net7.0/DeliveryService.UI.genruntimeconfig.cache
 /Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.UI/obj/Debug/net7.0/ref/DeliveryService.UI.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.UI/bin/Debug/net7.0/DeliveryService.Data.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.UI/bin/Debug/net7.0/DeliveryServiceRepository.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.UI/bin/Debug/net7.0/DeliveryService.Data.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.UI/bin/Debug/net7.0/DeliveryServiceRepository.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.UI/obj/Debug/net7.0/DeliveryService.UI.csproj.AssemblyReference.cache
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.UI/obj/Debug/net7.0/DeliveryService.UI.csproj.CopyComplete

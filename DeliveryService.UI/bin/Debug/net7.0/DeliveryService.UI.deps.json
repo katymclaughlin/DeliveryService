@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "DeliveryService.UI/1.0.0": {
+        "dependencies": {
+          "DeliveryService.Data": "1.0.0",
+          "DeliveryServiceRepository": "1.0.0"
+        },
         "runtime": {
           "DeliveryService.UI.dll": {}
+        }
+      },
+      "DeliveryService.Data/1.0.0": {
+        "runtime": {
+          "DeliveryService.Data.dll": {}
+        }
+      },
+      "DeliveryServiceRepository/1.0.0": {
+        "dependencies": {
+          "DeliveryService.Data": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryServiceRepository.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DeliveryService.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryService.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryServiceRepository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

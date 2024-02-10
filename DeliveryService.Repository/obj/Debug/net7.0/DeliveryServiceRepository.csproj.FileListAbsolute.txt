@@ -9,3 +9,7 @@
 /Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/refint/DeliveryServiceRepository.dll
 /Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/DeliveryServiceRepository.pdb
 /Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/ref/DeliveryServiceRepository.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/bin/Debug/net7.0/DeliveryService.Data.dll
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/bin/Debug/net7.0/DeliveryService.Data.pdb
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/DeliveryServiceRepository.csproj.AssemblyReference.cache
+/Users/katymclaughlin/Desktop/ElevenFiftyProjects/codingFoundations/dotnetProjects/DeliveryService/DeliveryService.Repository/obj/Debug/net7.0/DeliveryServiceRepository.csproj.CopyComplete
