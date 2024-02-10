@@ -25,6 +25,38 @@ namespace DeliveryService.Repository
             return _deliveryDirectory;
         }
 
+//NOTE - Update Deliveries (UPDATE)
+
+        public Delivery GetDeliverybyId(Guid id)
+        {
+            foreach (Delivery delivery in _deliveryDirectory)
+            {
+                if (delivery.CustomerId == id)
+                {
+                    return delivery;
+                }
+            }
+            return null;
+        }
+
+        public bool UpdateExistingDelivery (int id, string orderStatus)
+        {
+            Delivery oldDelivery = _deliveryDirectory[id];
+
+            if (oldDelivery != null)
+            {
+                oldDelivery.DeliveryStatus = orderStatus;
+
+            _deliveryDirectory[id] = oldDelivery;
+
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
 //NOTE - Delete Deliveries (Delete)
         public bool RemoveDeliveryFromList(int id)
         {

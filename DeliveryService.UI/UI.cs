@@ -38,6 +38,7 @@ namespace DeliveryService.UI
         {
             List<Delivery> DeliveryList = deliveryList.GetDeliveryList();
             Console.WriteLine ("Delivery List Amount = " + DeliveryList.Count);
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Delivery Name              | ID                                        | Order Date               | Delivery Status            | Item Number    | Item Quantity");             
             Console.WriteLine("===============================================================================================================================================================");
             for (int i = 0; i < DeliveryList.Count; i++ )
@@ -49,12 +50,29 @@ namespace DeliveryService.UI
 
         public void UpdateDelivery()
         {
-
+            Console.WriteLine("Please type the number next to the order that you would like to update the delivery status for.");
+            List<Delivery> DeliveryList = deliveryList.GetDeliveryList();
+            for (int i = 0; i < DeliveryList.Count; i++)
+            {
+                Console.WriteLine(i + "  " + DeliveryList[i].OrderName);
+            }
+            int updateUserInput = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine ("Please provide the new status for this delivery.");
+            string updateDeliveryStatus = Console.ReadLine();
+            bool UpdateExistingDelivery = deliveryList.UpdateExistingDelivery(updateUserInput, updateDeliveryStatus);
         }
 
         public void DeleteDelivery()
         {
-
+            Console.WriteLine("Please type the number next to the delivery you would like to delete.");
+            List<Delivery> DeliveryList = deliveryList.GetDeliveryList();
+            for (int i = 0; i < DeliveryList.Count; i++)
+            {
+                Console.WriteLine(i + "  " + DeliveryList[i].OrderName);
+            }
+            int deleteUserInput = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Deleting Delivery # " + deleteUserInput);
+            bool DeleteDeliverybyId = deliveryList.RemoveDeliveryFromList(deleteUserInput);
         }
     }
     public class UI
